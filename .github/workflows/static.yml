@@ -35,7 +35,7 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Setup Deno
         uses: denoland/setup-deno@v1.1.1
-      - name: Build Octavia files
+      - name: Build project files
         run: "./shx build"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
