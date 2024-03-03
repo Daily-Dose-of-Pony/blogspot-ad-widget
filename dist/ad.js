@@ -1,0 +1,1 @@
+"use strict";(()=>{let l="";let e=self.document,t=e.createElement("style");t.innerHTML=l;t.classList.add("blogspot-ad-widget-css");e.head.appendChild(t);e.querySelectorAll("div.ad-view").forEach(s=>{console.debug(s)});})();
