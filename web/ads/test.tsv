@@ -1,0 +1,3 @@
+weight	type	codec	src
+1	img	webp,jxl	./img/0
+1	vid	mp4	./img/1
